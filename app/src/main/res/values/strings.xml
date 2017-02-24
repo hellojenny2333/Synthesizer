@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Synthesizer version2</string>
+    <string name="aButton">Fifth Button</string>
+    <string name="bButton">Sixth Button</string>
+    <string name="bbButton">Seventh Button</string>
+    <string name="cButton">Eighth Button</string>
+    <string name="csButton">Ninth Button</string>
+    <string name="dButton">Tenth Button</string>
+    <string name="dsButton">Eleventh Button</string>
+    <string name="eButton">First Button</string>
+    <string name="fButton">Second Button</string>
+    <string name="fsButton">Twelfth Button</string>
+    <string name="gButton">Third Button</string>
+    <string name="gsButton">Fourth Button</string>
+    <string name="higheButton">Thirdteenth Button</string>
+    <string name="highfButton">Fourteenth Button</string>
+    <string name="highfsButton">Fifteenth Button</string>
+    <string name="highgButton">Sixteenth Button</string>
+    <string name="scaleButton">Scale Button</string>
+    <string name="littlestar1Button">Twinkle Little Star Pt1</string>
+    <string name="littlestar2Button">Twinkle Little Star Pt2</string>
+    <string name="arrayButton">Challenge 3</string>
+
+
+</resources>
